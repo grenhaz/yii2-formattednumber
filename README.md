@@ -25,7 +25,12 @@ Basic Usage
 -----------
 
 ```php
-<?= $form->field( $model, 'number' )->widget( FormattedNumberWidget::classname(), [ "plugin" => [ "decimals" => 2 ] ] ) ?>
+<?= $form->field( $model, 'number' )
+        ->widget( FormattedNumberWidget::classname(), [
+            "plugin" => [
+                "decimals" => 2
+            ]
+        ] ) ?>
 ```
 
 Configuration
