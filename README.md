@@ -33,6 +33,8 @@ Basic Usage
         ] ) ?>
 ```
 
+![Example](example.png?raw=true "Example")
+
 Configuration
 -------------
 
