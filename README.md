@@ -44,9 +44,9 @@ Configuration
  * decimals - Number of decimals to show.
     default: 2
  * thousandSeparator - Thousand separator character.
-    default: .
+    default: (empty)
  * decimalSeparator - Decimal separator character.
-    default: ,
+    default: .
  * emptyAllowed - Allow empty values.
     default: true
  * forceDecimals - Force to show or not all decimals.
